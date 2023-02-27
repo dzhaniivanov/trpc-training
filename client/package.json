@@ -8,6 +8,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@trpc/client": "^10.13.0",
     "react": "^18.0.0",
     "react-dom": "^18.0.0"
   },
